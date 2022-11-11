@@ -25,6 +25,14 @@
     padding-top:20px;
 }
 
+#fixed{
+    left: 25%;
+    width: 50%;
+    position: fixed;
+    background-color: antiquewhite;
+    border: solid rgb(255, 192, 203) 2px;
+    border-radius: 10px;
+}
 .superinner h1{
     font-family: 'Bitter', serif;
     font-family: 'Edu QLD Beginner', cursive;
