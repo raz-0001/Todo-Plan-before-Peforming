@@ -26,7 +26,10 @@
 }
 
 .superinner h1{
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Bitter', serif;
+    font-family: 'Edu QLD Beginner', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Lobster', cursive;
 }
 .superinner input{
     outline:none;
@@ -41,5 +44,5 @@
 }
 
 .superinner input[type="text"]{
-    width: 90%;
+    width: 80%;
 }
